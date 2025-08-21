@@ -1,0 +1,24 @@
+//////////////////////////////////////////////
+// Created By: William Fox //////////////////
+// Date Created: 06/09/25 //////////////////
+// Modified Date: 06/09/25 /////////////////
+//Description: DataEnEngineering Page /////
+//////////////////////////////////////////
+
+
+import React;
+import './style.css';
+
+
+
+export function DataNeer (){ ()
+   return(
+
+   )
+
+
+
+
+
+
+}

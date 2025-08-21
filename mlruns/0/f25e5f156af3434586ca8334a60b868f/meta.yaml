@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/f25e5f156af3434586ca8334a60b868f/artifacts
+end_time: 1741839667252
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f25e5f156af3434586ca8334a60b868f
+run_name: delicate-auk-792
+run_uuid: f25e5f156af3434586ca8334a60b868f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741839665796
+status: 3
+tags: []
+user_id: wgfox

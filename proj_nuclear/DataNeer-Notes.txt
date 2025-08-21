@@ -1,0 +1,34 @@
+DataNeer  component
+
+Purpose:
+    The goal is to list out Data Engineering  -   Spark and Airflow
+
+    - Spark
+        - Spark SQL
+            - Database Query - MySQL
+            - Queries
+        - Spark Streaming
+            - Kafka integration
+        - PySpark
+            - PySpark scripts
+        - Scala
+            - Scala Scripts
+        - Lineage - third party
+        -  Spark History
+        - Spark Interface  - Zeppelin
+        - Spark config
+        - Spark Version
+    - AirFlow
+        - Webmin - Airflow UI
+        - Airflww - Airflow celery
+        - AirFlow DAG - Types of DAGS
+        - AirFlow Config
+        - Airflow Use Cases
+
+
+DataNeer  -  compoents  -
+
+Tasks -
+* Will need a Style componenent - This will allow a certain style for the DataNeer page
+* Font - Arial  -
+* Color  -  Gray - Black - Graphite - White - Cobolt

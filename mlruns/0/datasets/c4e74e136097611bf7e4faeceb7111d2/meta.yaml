@@ -1,0 +1,8 @@
+digest: 8aae43d3
+name: dataset
+profile: '{"features_shape": [89, 10], "features_size": 890, "features_nbytes": 7120}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"float64\", \"shape\": [-1, 10]}}]", "targets": null}}'
+source: '{"tags": {"mlflow.user": "wgfox", "mlflow.source.name": "/usr/local/lib/python3.10/dist-packages/ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code
